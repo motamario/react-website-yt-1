@@ -1,14 +1,14 @@
-img{
-    object-fit: cover;
+.miami{
+    /* object-fit: cover; */
     width: 100%;
-    height: 100%;
+    /* height: 100%; */
     position:fixed;
     z-index: -1;
 }
 
 .hero-container{
-    /* background: url('public/images/miami-g52d0e4901_1280.jpg') center center/cover
-    no-repeat; */
+    background: url('/images/miami-g52d0e4901_1280.jpg') center center/cover
+    no-repeat;
     height: 100vh;
     width: 100%;
     display: flex;

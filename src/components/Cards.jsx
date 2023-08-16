@@ -10,7 +10,7 @@ function Cards() {
         <h1>Check out these EPIC Destinations</h1>
         <div className="cards__container">
             <div className="cards__wrapper">
-                <ul className="cards__items">
+                <ul className="cards__items1">
                     <CardItem
                     src='/images/babak.jpg'
                     text='Travel to uncover the mysteries the past'
@@ -25,7 +25,7 @@ function Cards() {
                     path='/services'
                     />
                 </ul>
-                <ul className="cards__items">
+                <ul className="cards__items2">
                     <CardItem
                     src='/images/nasa-spaceship.jpg'
                     text='"Embark on a one-way journey into space with a sponsored ticket from the Human Population Control Association."'

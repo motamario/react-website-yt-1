@@ -10,7 +10,7 @@ function HeroSection() {
   return (
     <div className='hero-container'>
     
-        <img src='/images/miami-g52d0e4901_1280.jpg' />
+        {/* <img className='miami' src='/images/miami-g52d0e4901_1280.jpg'  /> */}
         <h1>ADVENTURE AWAITS</h1>
         <p>What are you waiting for?</p>
         <div className="hero-btns">
